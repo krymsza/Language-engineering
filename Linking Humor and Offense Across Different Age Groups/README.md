@@ -1,0 +1,1 @@
+Project realizing SemEval-2021 Task 7: Hahackathon: Linking Humor and Offense using Bert model
